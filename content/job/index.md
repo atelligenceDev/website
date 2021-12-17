@@ -1,4 +1,4 @@
 +++
-title = "About Syna"
+title = "加入我们"
 date = "2017-10-05"
 +++

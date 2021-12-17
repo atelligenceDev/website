@@ -67,17 +67,22 @@ lastmod = ["lastmod", ":git", "date"]
 # configurable.
 [[menu.main]]
   url = "/"
-  name = "Home"
+  name = "首页"
   weight = 10
 
 [[menu.main]]
-  url = "/about"
-  name = "About Us"
+  url = "/news"
+  name = "公司新闻"
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
-  name = "Contact"
+  url = "/contact"
+  name = "联系我们"
+  weight = 30
+
+[[menu.main]]
+  url = "/job"
+  name = "加入我们"
   weight = 30
 
 [[menu.footer]]
